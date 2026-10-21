@@ -1,4 +1,6 @@
-## Hi there 👋
+🏢 소속: 건화 품질경영팀
+📜 자격증: 전산응용기계제도기능사
+📧 Email: minchae.koo@kunhwamc.com
 
 <!--
 **minchae000/minchae000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
